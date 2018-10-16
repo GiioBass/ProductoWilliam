@@ -1,0 +1,9 @@
+D:\UNAD\3\Estructura de Datos\1\f2\ProductoWilliam\ProductoWilliam\bin\Debug\ProductoWilliam.exe.config
+D:\UNAD\3\Estructura de Datos\1\f2\ProductoWilliam\ProductoWilliam\bin\Debug\ProductoWilliam.exe
+D:\UNAD\3\Estructura de Datos\1\f2\ProductoWilliam\ProductoWilliam\bin\Debug\ProductoWilliam.pdb
+D:\UNAD\3\Estructura de Datos\1\f2\ProductoWilliam\ProductoWilliam\obj\Debug\ProductoWilliam.csprojResolveAssemblyReference.cache
+D:\UNAD\3\Estructura de Datos\1\f2\ProductoWilliam\ProductoWilliam\obj\Debug\ProductoWilliam.FCalcularPro.resources
+D:\UNAD\3\Estructura de Datos\1\f2\ProductoWilliam\ProductoWilliam\obj\Debug\ProductoWilliam.Properties.Resources.resources
+D:\UNAD\3\Estructura de Datos\1\f2\ProductoWilliam\ProductoWilliam\obj\Debug\ProductoWilliam.csproj.GenerateResource.Cache
+D:\UNAD\3\Estructura de Datos\1\f2\ProductoWilliam\ProductoWilliam\obj\Debug\ProductoWilliam.exe
+D:\UNAD\3\Estructura de Datos\1\f2\ProductoWilliam\ProductoWilliam\obj\Debug\ProductoWilliam.pdb
